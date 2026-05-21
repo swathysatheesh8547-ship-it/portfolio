@@ -41,7 +41,7 @@ function Home() {
               
               {/* Replace 'https://via.placeholder.com/400x500' with your actual beautiful avatar or high-quality professional portrait photo link */}
               <img 
-                src="https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=80&w=600&auto=format&fit=crop" 
+                src="/image/swathy.jpeg" 
                 alt="Swathy S S Portrait" 
                 className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700 ease-out"
               />
