@@ -5,8 +5,7 @@ const skillCategories = [
   {
     title: "Frontend Development",
     skills: [
-      { name: "React", dotColor: "bg-cyan-500", hoverTextColor: "hover:text-cyan-600" },
-      { name: "JavaScript", dotColor: "bg-yellow-500", hoverTextColor: "hover:text-yellow-600" },
+     { name: "JavaScript", dotColor: "bg-yellow-500", hoverTextColor: "hover:text-yellow-600" },
       { name: "HTML5", dotColor: "bg-orange-500", hoverTextColor: "hover:text-orange-600" },
       { name: "CSS3", dotColor: "bg-blue-500", hoverTextColor: "hover:text-blue-600" },
     ],
