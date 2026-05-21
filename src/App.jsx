@@ -6,6 +6,7 @@ import Skills from "./components/Skills";
 import Education from "./components/Education";
  import Contact from "./components/Contact";
  import Navbar from "./components/Navbar";
+ import Footer from "./components/Footer";
  //import Counter from "./components/Counter";
 // import Data from "./components/Data ";
 
@@ -20,6 +21,7 @@ function App() {
       <Education /> 
        <Contact />
        <Navbar/>
+       <Footer/>
        {/* <Counter/>  */}
       {/* <Data/> */}
     </div>
